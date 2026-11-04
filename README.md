@@ -1,3 +1,4 @@
+ 
 <!-- BANNER -->
 <p align="center">
   <img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/6e76e542-8e40-4cb0-8a18-250b51623fa0" />
@@ -6,35 +7,42 @@
 <!-- ANIMATED INTRO -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=900&color=C77DFF&center=true&vCenter=true&width=700&height=65&lines=%24+whoami;Riya+Jamsutkar;Cybersecurity+Enthusiast;Computer+Engineering+Student;%24+echo+%22Learning.+Building.+Securing.%22" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=700&height=65&lines=%24+whoami;Riya+Jamsutkar;Cybersecurity+Enthusiast;Computer+Engineering+Student;%24+echo+%22Learning.+Building.+Securing.%22" alt="Typing SVG"/>
   </a>
 </p>
 
 <!-- TERMINAL INTRO -->
-```bash
-┌──(ria㉿kali)-[~]
-└─$ whoami
-
-Riya Jamsutkar
-Computer Engineering Student
-Cybersecurity Enthusiast | Developer
+```diff
++ ┌──(ria㉿kali)-[~]
++ └─$ whoami
++
++ Riya Jamsutkar
++ Computer Engineering Student
++ Cybersecurity Enthusiast | Developer
 ```
 
 ### `$ cat about.txt`
 
-Hey! I'm Riya, a Computer Engineering student passionate about understanding how systems work, finding vulnerabilities and building secure applications.
+```diff
++ Hey! I'm Riya, a Computer Engineering student passionate about
++ understanding how systems work, finding vulnerabilities and
++ building secure applications.
++
++ I enjoy exploring cybersecurity, experimenting with new technologies
++ and learning through hands-on projects.
+```
 
-I enjoy exploring cybersecurity, experimenting with new technologies and learning through hands-on projects.
+### `$ cat interests.txt`
 
-```bash
-┌──(ria㉿kali)-[~]
-└─$ cat interests.txt
-
-[+] Cybersecurity & Ethical Hacking
-[+] Web Application Security & VAPT
-[+] Network Security & Threat Detection
-[+] Cloud Security & DevSecOps
-[+] AI/ML for Security
+```diff
++ ┌──(ria㉿kali)-[~]
++ └─$ cat interests.txt
++
++ [+] Cybersecurity & Ethical Hacking
++ [+] Web Application Security & VAPT
++ [+] Network Security & Threat Detection
++ [+] Cloud Security & DevSecOps
++ [+] AI/ML for Security
 ```
 
 ---
@@ -142,47 +150,40 @@ CI/CD pipeline for an e-commerce microservice.
 
 ### `$ cat currently_learning.txt`
 
-```text
-[+] Web Application Security
-[+] Penetration Testing & VAPT
-[+] Linux & Network Security
-[+] Cloud Security
-[+] DevSecOps
-[+] Threat Intelligence
+```diff
++ ┌──(ria㉿kali)-[~]
++ └─$ cat currently_learning.txt
++
++ [+] Web Application Security
++ [+] Penetration Testing & VAPT
++ [+] Linux & Network Security
++ [+] Cloud Security
++ [+] DevSecOps
++ [+] Threat Intelligence
 ```
 
 ---
 
 ### `$ neofetch`
 
-```text
-       .--.          riya@RJ42-CODER
-      |o_o |         -------------------------
-      |:_/ |         OS: Kali / Parrot-inspired
-     //   \ \        HOST: GitHub
-    (|     | )       ROLE: Computer Engineering
-   /'\_   _/`\       FOCUS: Cybersecurity
-   \___)=(___/       STATUS: Learning & Building
+```diff
++        .--.          riya@RJ42-CODER
++       |o_o |         -------------------------
++       |:_/ |         OS: Kali / Parrot-inspired
++      //   \ \        HOST: GitHub
++     (|     | )       ROLE: Computer Engineering
++    /'\_   _/`\       FOCUS: Cybersecurity
++    \___)=(___/       STATUS: Learning & Building
 ```
 
 ---
+
 <h2 align="center">⌁ CONTRIBUTION MATRIX</h2>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg"
-       width="100%."
+       width="100%"
        alt="3D GitHub Contribution Graph"/>
-</p>
-
-### `$ git stats --all`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RJ42-CODER&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=080510&title_color=C77DFF&icon_color=C77DFF&text_color=E0D5EB" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJ42-CODER&layout=compact&theme=midnight-purple&hide_border=true&bg_color=080510&title_color=C77DFF&text_color=E0D5EB" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RJ42-CODER&theme=midnight-purple&hide_border=true&background=080510&ring=C77DFF&fire=C77DFF&currStreakLabel=C77DFF" alt="GitHub contribution streak"/>
 </p>
 
 ---
@@ -203,14 +204,14 @@ CI/CD pipeline for an e-commerce microservice.
 
 <p align="center">
   <a href="https://rj42-coder.github.io/">
-    <img src="https://img.shields.io/badge/ENTER-INTERACTIVE_TERMINAL-C77DFF?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/ENTER-INTERACTIVE_TERMINAL-00FF41?style=for-the-badge&logo=linux&logoColor=black" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&height=40&lines=Learning.+Building.+Securing.;Stay+curious.+Stay+ethical.;See+you+in+the+terminal." alt="Closing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=40&lines=Learning.+Building.+Securing.;Stay+curious.+Stay+ethical.;See+you+in+the+terminal." alt="Closing animation"/>
 </p>
 
 <p align="center">
@@ -218,5 +219,5 @@ CI/CD pipeline for an e-commerce microservice.
 </p>
 
 <p align="center">
-  <sub>Designed with curiosity and a little terminal obsession. 💜</sub>
+  <sub>Designed with curiosity and a little terminal obsession.</sub>
 </p>
