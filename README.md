@@ -20,32 +20,19 @@ Computer Engineering Student
 Cybersecurity Enthusiast | Developer
 ```
 
----
-
-<!-- ABOUT & INTERESTS -->
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ### `$ cat about.txt`
 
 ```bash
 ┌──(riya㉿kali)-[~]
 └─$ cat about.txt
 
-Hey! I'm Riya, a Computer
-Engineering student passionate
-about understanding how systems
-work, finding vulnerabilities,
-and building secure applications.
+Hey! I'm Riya, a Computer Engineering student passionate about
+understanding how systems work, finding vulnerabilities, and
+building secure applications.
 
-I enjoy exploring cybersecurity,
-experimenting with technologies
-and learning through projects.
+I enjoy exploring cybersecurity, experimenting with new technologies
+and learning through hands-on projects.
 ```
-
-</td>
-<td width="45%" valign="top">
 
 ### `$ cat interests.txt`
 
@@ -53,19 +40,12 @@ and learning through projects.
 ┌──(riya㉿kali)-[~]
 └─$ cat interests.txt
 
-[+] Cybersecurity
-[+] Ethical Hacking
-[+] Web Application Security
-[+] VAPT
-[+] Network Security
-[+] Cloud Security
-[+] DevSecOps
+[+] Cybersecurity & Ethical Hacking
+[+] Web Application Security & VAPT
+[+] Network Security & Threat Detection
+[+] Cloud Security & DevSecOps
 [+] AI/ML for Security
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -103,71 +83,74 @@ and learning through projects.
 
 ---
 
-<!-- FEATURED PROJECTS -->
 ### `$ ls ~/projects/`
 
-<sub>FEATURED PROJECTS · PINNED REPOSITORIES</sub>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### 01. [Evidence-of-Labs ↗](https://github.com/RJ42-CODER/Evidence-of-Labs)
+**01. <a href="https://github.com/RJ42-CODER/Evidence-of-Labs">EVIDENCE OF LABS ↗</a>**
 
 Personal cybersecurity lab notes and hands-on experiments. A collection of challenges, findings, and learnings in web security, penetration testing, and ethical hacking.
 
 `Cybersecurity` `Web Security` `VAPT`
 
----
+</td>
+<td width="50%" valign="top">
 
-#### 02. [ResearchGraph ↗](https://github.com/RJ42-CODER/ResearchGraph)
+**02. <a href="https://github.com/RJ42-CODER/ResearchGraph">RESEARCHGRAPH ↗</a>**
 
-An interactive, AI-orchestrated research workspace for ingesting research papers, extracting hyperparameters, and running sandboxed benchmarks.
+An interactive, AI-orchestrated research workspace to ingest research papers, extract hyperparameters, and run sandboxed benchmarks.
 
 `React Flow` `FastAPI` `Ollama` `SQLite` `TypeScript`
 
----
+</td>
+</tr>
 
-#### 03. [IP Sakti Sahayak ↗](https://github.com/RJ42-CODER/ip-sakti-sahayak)
+<tr>
+<td width="50%" valign="top">
+
+**03. <a href="https://github.com/RJ42-CODER/ip-sakti-sahayak">IP SAKTI SAHAYAK ↗</a>**
 
 A multilingual, RAG-based AI assistant for IP and regulatory guidance in Ayurveda, helping classify formulations and navigate Indian and international IP law.
 
 `Python` `RAG` `AI`
 
----
+</td>
+<td width="50%" valign="top">
 
-#### 04. [BackendProject01 ↗](https://github.com/RJ42-CODER/BackendProject01)
+**04. <a href="https://github.com/RJ42-CODER/BackendProject01">BACKEND PROJECT 01 ↗</a>**
 
 A backend development project built while following the Chai aur Backend learning series.
 
 `JavaScript` `Backend Development`
 
----
+</td>
+</tr>
 
-#### 05. [Agent Raksha ↗](https://github.com/RJ42-CODER/AGENT-RAKSHA)
+<tr>
+<td width="50%" valign="top">
+
+**05. <a href="https://github.com/RJ42-CODER/AGENT-RAKSHA">AGENT RAKSHA ↗</a>**
 
 An AI agent that acts as a security layer for AI applications, helping prevent prompt injection and malicious database query entries.
 
 `Python` `AI Security` `Cybersecurity`
 
----
+</td>
+<td width="50%" valign="top">
 
-#### 06. [Mini Enterprise Secure Portal ↗](https://github.com/RJ42-CODER/mini-enterprise-secure-portal)
+**06. <a href="https://github.com/RJ42-CODER/mini-enterprise-secure-portal">MINI ENTERPRISE SECURE PORTAL ↗</a>**
 
-A Flask-based secure web portal featuring application-level threat detection, request inspection, rate limiting, and security event reporting for SOC monitoring.
+A Flask-based secure web portal with application-level threat detection, request inspection, rate limiting, and security event reporting for SOC monitoring.
 
 `Python` `Flask` `Threat Detection`
 
----
-
-<p align="center">
-  <a href="https://github.com/RJ42-CODER?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-ALL_MY_PROJECTS-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Explore all GitHub projects"/>
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
-
-<!-- LEARNING & NEOFETCH -->
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### `$ cat currently_learning.txt`
 
@@ -183,28 +166,22 @@ A Flask-based secure web portal featuring application-level threat detection, re
 [+] Threat Intelligence
 ```
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### `$ neofetch`
 
-```text
-       .--.       riya@RJ42-CODER
-      |o_o |      ----------------
-      |:_/ |      OS: Kali
-     //   \ \     HOST: GitHub
-    (|     | )    ROLE: Computer Eng.
-   /'\_   _/`\    FOCUS: Cybersecurity
-   \___)=(___/    STATUS: Learning
+```bash
+       .--.          riya@RJ42-CODER
+      |o_o |         -------------------------
+      |:_/ |         OS: Kali / Parrot-inspired
+     //   \ \        HOST: GitHub
+    (|     | )       ROLE: Computer Engineering
+   /'\_   _/`\       FOCUS: Cybersecurity
+   \___)=(___/       STATUS: Learning & Building
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
 <h2 align="center">⌁ CONTRIBUTION MATRIX</h2>
 
 <p align="center">
@@ -237,7 +214,6 @@ A Flask-based secure web portal featuring application-level threat detection, re
 
 ---
 
-<!-- CLOSING -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=40&lines=Learning.+Building.+Securing.;Stay+curious.+Stay+ethical.;See+you+in+the+terminal." alt="Closing animation"/>
 </p>
