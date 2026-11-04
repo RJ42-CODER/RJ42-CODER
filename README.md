@@ -23,26 +23,30 @@
 
 ### `$ cat about.txt`
 
-```diff
-+ Hey! I'm Riya, a Computer Engineering student passionate about
-+ understanding how systems work, finding vulnerabilities and
-+ building secure applications.
-+
-+ I enjoy exploring cybersecurity, experimenting with new technologies
-+ and learning through hands-on projects.
+```bash
+┌──(riya㉿kali)-[~]
+└─$ cat about.txt
+
+Hey! I'm Riya, a Computer Engineering student passionate about
+understanding how systems work, finding vulnerabilities, and
+building secure applications.
+
+I enjoy exploring cybersecurity, experimenting with new technologies
+and learning through hands-on projects.
 ```
+
 
 ### `$ cat interests.txt`
 
-```diff
-+ ┌──(ria㉿kali)-[~]
-+ └─$ cat interests.txt
-+
-+ [+] Cybersecurity & Ethical Hacking
-+ [+] Web Application Security & VAPT
-+ [+] Network Security & Threat Detection
-+ [+] Cloud Security & DevSecOps
-+ [+] AI/ML for Security
+```bash
+┌──(riya㉿kali)-[~]
+└─$ cat interests.txt
+
+[+] Cybersecurity & Ethical Hacking
+[+] Web Application Security & VAPT
+[+] Network Security & Threat Detection
+[+] Cloud Security & DevSecOps
+[+] AI/ML for Security
 ```
 
 ---
@@ -148,32 +152,30 @@ CI/CD pipeline for an e-commerce microservice.
 
 ---
 
-### `$ cat currently_learning.txt`
+```bash
+┌──(riya㉿kali)-[~]
+└─$ cat currently_learning.txt
 
-```diff
-+ ┌──(ria㉿kali)-[~]
-+ └─$ cat currently_learning.txt
-+
-+ [+] Web Application Security
-+ [+] Penetration Testing & VAPT
-+ [+] Linux & Network Security
-+ [+] Cloud Security
-+ [+] DevSecOps
-+ [+] Threat Intelligence
+[+] Web Application Security
+[+] Penetration Testing & VAPT
+[+] Linux & Network Security
+[+] Cloud Security
+[+] DevSecOps
+[+] Threat Intelligence
 ```
 
 ---
 
 ### `$ neofetch`
 
-```diff
-+        .--.          riya@RJ42-CODER
-+       |o_o |         -------------------------
-+       |:_/ |         OS: Kali / Parrot-inspired
-+      //   \ \        HOST: GitHub
-+     (|     | )       ROLE: Computer Engineering
-+    /'\_   _/`\       FOCUS: Cybersecurity
-+    \___)=(___/       STATUS: Learning & Building
+```bash
+       .--.          riya@RJ42-CODER
+      |o_o |         -------------------------
+      |:_/ |         OS: Kali / Parrot-inspired
+     //   \ \        HOST: GitHub
+    (|     | )       ROLE: Computer Engineering
+   /'\_   _/`\       FOCUS: Cybersecurity
+   \___)=(___/       STATUS: Learning & Building
 ```
 
 ---
