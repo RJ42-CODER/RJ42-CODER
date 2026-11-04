@@ -166,6 +166,13 @@ CI/CD pipeline for an e-commerce microservice.
 ```
 
 ---
+<h2 align="center">⌁ CONTRIBUTION MATRIX</h2>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg"
+       width="100%."
+       alt="3D GitHub Contribution Graph"/>
+</p>
 
 ### `$ git stats --all`
 
