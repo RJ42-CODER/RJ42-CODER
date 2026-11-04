@@ -1,3 +1,4 @@
+ <img width="1536" height="1024" alt="Neon Purple Cybersecurity Coder Banner" src="https://github.com/user-attachments/assets/87024590-7044-4494-a54a-f6eba220c9a5" />
 ## Hi there 👋
 
 <!--
