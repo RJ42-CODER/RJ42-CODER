@@ -1,4 +1,3 @@
- 
 <!-- BANNER -->
 <p align="center">
   <img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/6e76e542-8e40-4cb0-8a18-250b51623fa0" />
@@ -12,13 +11,13 @@
 </p>
 
 <!-- TERMINAL INTRO -->
-```diff
-+ ┌──(ria㉿kali)-[~]
-+ └─$ whoami
-+
-+ Riya Jamsutkar
-+ Computer Engineering Student
-+ Cybersecurity Enthusiast | Developer
+```bash
+┌──(riya㉿kali)-[~]
+└─$ whoami
+
+Riya Jamsutkar
+Computer Engineering Student
+Cybersecurity Enthusiast | Developer
 ```
 
 ### `$ cat about.txt`
@@ -34,7 +33,6 @@ building secure applications.
 I enjoy exploring cybersecurity, experimenting with new technologies
 and learning through hands-on projects.
 ```
-
 
 ### `$ cat interests.txt`
 
@@ -89,68 +87,72 @@ and learning through hands-on projects.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**01. AEGIS**
+**01. <a href="https://github.com/RJ42-CODER/Evidence-of-Labs">EVIDENCE OF LABS ↗</a>**
 
-AI-powered cloud security and threat intelligence platform.
+Personal cybersecurity lab notes and hands-on experiments. A collection of challenges, findings, and learnings in web security, penetration testing, and ethical hacking.
 
-`Cloud Security` `AI/ML` `Python`
-
-</td>
-<td width="50%">
-
-**02. AGENT RAKSHA**
-
-Security monitoring and threat detection project.
-
-`Cybersecurity` `Monitoring`
+`Cybersecurity` `Web Security` `VAPT`
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**03. CHAINGUARD**
+**02. <a href="https://github.com/RJ42-CODER/ResearchGraph">RESEARCHGRAPH ↗</a>**
 
-ML-based DeFi transaction anomaly detection.
+An interactive, AI-orchestrated research workspace to ingest research papers, extract hyperparameters, and run sandboxed benchmarks.
 
-`FastAPI` `React` `Solidity` `ML`
-
-</td>
-<td width="50%">
-
-**04. NETWORK IDS**
-
-Secure segmented enterprise network with real-time intrusion detection.
-
-`Networking` `Wireshark` `Python`
+`React Flow` `FastAPI` `Ollama` `SQLite` `TypeScript`
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**05. DOCKERIZED API**
+**03. <a href="https://github.com/RJ42-CODER/ip-sakti-sahayak">IP SAKTI SAHAYAK ↗</a>**
 
-Containerized backend API development project.
+A multilingual, RAG-based AI assistant for IP and regulatory guidance in Ayurveda, helping classify formulations and navigate Indian and international IP law.
 
-`Docker` `Python` `API`
+`Python` `RAG` `AI`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**06. DEVOPS PIPELINE**
+**04. <a href="https://github.com/RJ42-CODER/BackendProject01">BACKEND PROJECT 01 ↗</a>**
 
-CI/CD pipeline for an e-commerce microservice.
+A backend development project built while following the Chai aur Backend learning series.
 
-`Docker` `DevOps` `CI/CD`
+`JavaScript` `Backend Development`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**05. <a href="https://github.com/RJ42-CODER/AGENT-RAKSHA">AGENT RAKSHA ↗</a>**
+
+An AI agent that acts as a security layer for AI applications, helping prevent prompt injection and malicious database query entries.
+
+`Python` `AI Security` `Cybersecurity`
+
+</td>
+<td width="50%" valign="top">
+
+**06. <a href="https://github.com/RJ42-CODER/mini-enterprise-secure-portal">MINI ENTERPRISE SECURE PORTAL ↗</a>**
+
+A Flask-based secure web portal with application-level threat detection, request inspection, rate limiting, and security event reporting for SOC monitoring.
+
+`Python` `Flask` `Threat Detection`
 
 </td>
 </tr>
 </table>
 
 ---
+
+### `$ cat currently_learning.txt`
 
 ```bash
 ┌──(riya㉿kali)-[~]
