@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="./neon-purple-cybersecurity-coder-banner.png" width="100%" alt="RJ42-CODER Cybersecurity Banner"/>
+  <img src="[./neon-purple-cybersecurity-coder-banner.png](https://github.com/user-attachments/assets/6077b754-63ea-492d-b6a6-7d18ced2e0db)" width="100%" alt="RJ42-CODER Cybersecurity Banner"/>
 </p>
 
 <!-- ANIMATED INTRO -->
