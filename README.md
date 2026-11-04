@@ -15,9 +15,9 @@
 ┌──(riya㉿kali)-[~]
 └─$ whoami
 
-Riya Jamsutkar
-Computer Engineering Student
-Cybersecurity Enthusiast | Developer
+"Riya Jamsutkar"
+"Computer Engineering Student"
+"Cybersecurity Enthusiast | Developer"
 ```
 
 ### `$ cat about.txt`
