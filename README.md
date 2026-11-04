@@ -91,7 +91,7 @@ and learning through hands-on projects.
 <tr>
 <td width="50%" valign="top">
 
-**01. EVIDENCE OF LABS**
+**01. <a href="https://github.com/RJ42-CODER/Evidence-of-Labs">EVIDENCE OF LABS</a>**
 
 Personal cybersecurity lab notes and hands-on experiments. A collection of challenges, findings, and learnings in web security, penetration testing, and ethical hacking.
 
@@ -100,7 +100,7 @@ Personal cybersecurity lab notes and hands-on experiments. A collection of chall
 </td>
 <td width="50%" valign="top">
 
-**02. RESEARCHGRAPH**
+**02. <a href="https://github.com/RJ42-CODER/ResearchGraph">RESEARCHGRAPH</a>**
 
 An interactive, AI-orchestrated research workspace to ingest research papers, extract hyperparameters, and run sandboxed benchmarks.
 
@@ -111,7 +111,7 @@ An interactive, AI-orchestrated research workspace to ingest research papers, ex
 <tr>
 <td width="50%" valign="top">
 
-**03. IP SAKTI SAHAYAK**
+**03. <a href="https://github.com/RJ42-CODER/ip-sakti-sahayak">IP SAKTI SAHAYAK</a>**
 
 A multilingual, RAG-based AI assistant for IP and regulatory guidance in Ayurveda, helping classify formulations and navigate Indian and international IP law.
 
@@ -120,7 +120,7 @@ A multilingual, RAG-based AI assistant for IP and regulatory guidance in Ayurved
 </td>
 <td width="50%" valign="top">
 
-**04. BACKEND PROJECT 01**
+**04. <a href="https://github.com/RJ42-CODER/BackendProject01">BACKEND PROJECT</a>**
 
 A backend development project built while following the Chai aur Backend learning series.
 
@@ -131,7 +131,7 @@ A backend development project built while following the Chai aur Backend learnin
 <tr>
 <td width="50%" valign="top">
 
-**05. AGENT RAKSHA**
+**05. <a href="https://github.com/RJ42-CODER/AGENT-RAKSHA">AGENT RAKSHA</a>**
 
 An AI agent that acts as a security layer for AI applications, helping prevent prompt injection and malicious database query entries.
 
@@ -140,7 +140,7 @@ An AI agent that acts as a security layer for AI applications, helping prevent p
 </td>
 <td width="50%" valign="top">
 
-**06. MINI ENTERPRISE SECURE PORTAL**
+**06. <a href="https://github.com/RJ42-CODER/mini-enterprise-secure-portal">MINI ENTERPRISE SECURE PORTAL</a>**
 
 A Flask-based secure web portal with application-level threat detection, request inspection, rate limiting, and security event reporting for SOC monitoring.
 
